@@ -1,6 +1,0 @@
-a = input( 'enter a number: ')
-b = input ( 'enter another number: ')
-print( ' addition :' , int (a) + int (b))
-print( ' subtraction :' , int (a) - int (b))
-print( ' multiplication :' , int (a) * int (b))
-print( ' division :' , float(a) / float (b))
